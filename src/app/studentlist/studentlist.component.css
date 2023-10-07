@@ -1,0 +1,25 @@
+button {
+  margin-bottom: 10px;
+  position: absolute;
+}
+.select {
+  position: absolute;
+}
+
+#bf {
+  margin-left: 350px;
+}
+
+#bc {
+  margin-left: 500px;
+}
+#bd {
+  margin-left: 650px;
+}
+h1 {
+  margin-top: 20px;
+}
+
+#rf {
+  margin-top: 20px;
+}
